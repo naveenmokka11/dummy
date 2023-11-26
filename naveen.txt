@@ -1,2 +1,6 @@
 naveen mokka
 email:naveenmokks2000@gmail.com
+password:naveen@123
+place :kavali;
+college :scdc,
+hometown :krakuturu
