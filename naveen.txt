@@ -7,7 +7,10 @@ college :scdc,
 phone1:22222222
 
 phone2:111111111111
-fathername:malyadri
-mother name:madhavi
+
 
 hometown :krakuturu
+
+
+fathername:malyadri
+mother name:madhavi
