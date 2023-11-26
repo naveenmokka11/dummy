@@ -3,14 +3,10 @@ email:naveenmokks2000@gmail.com
 password:naveen@123
 place :kavali;
 college :scdc,
-
 phone1:22222222
-
 phone2:111111111111
-
-
 hometown :krakuturu
-
-
 fathername:malyadri
 mother name:madhavi
+hometown :krakuturu
+
