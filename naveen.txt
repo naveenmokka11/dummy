@@ -3,4 +3,5 @@ email:naveenmokks2000@gmail.com
 password:naveen@123
 place :kavali;
 college :scdc,
+phone:22222222
 hometown :krakuturu
